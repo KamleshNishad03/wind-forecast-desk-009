@@ -2,9 +2,9 @@
 
 Web app for a UK utility's day-ahead power buyers. It shows (1) the latest wind forecast available at decision time and (2) how accurate these forecasts have been in January 2026. Data: Elexon BMRS, national wind only (`FUELHH` actuals, `WINDFOR` forecasts).
 
-**Live app:** _add your Vercel link here_
+**Live app:** (https://wind-forecast-desk-009.vercel.app/)
 
-**AI use:** This project was built with help from an AI assistant (Claude). All code was reviewed by the author.
+**AI Assistance:** AI tools (Claude) were used as a reference and development aid throughout this project, including understanding concepts, exploring implementation approaches, resolving technical issues, and occasionally assisting with code writing. The AI-generated suggestions and code were reviewed, modified where necessary, and tested by the author to ensure they met the project requirements.
 
 ## Files
 - `backend/app/analysis.py`: forecast selection and error metrics (the important file)
